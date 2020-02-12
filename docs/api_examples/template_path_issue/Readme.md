@@ -1,5 +1,10 @@
 # need to document correct syntax for template_paths
 
+Specifically, I'd like to get [c.TemplateExporter.template_path](https://github.com/eoas-ubc/nbconvert/blob/f5b816f5daeb929eb4510c845f5adc8b02c99a4d/docs/api_examples/template_path_issue/make_html.py#L15)
+working.  Currently `./project_templates` does not get added to the template_path
+
+
+
 To run:
 
 ```
